@@ -280,4 +280,4 @@ defaults:
       share: true
       related: true
       
-remote_theme : mmistakes/minial-mistakes
+remote_theme : mmistakes/minimal-mistakes
