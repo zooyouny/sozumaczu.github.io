@@ -3,6 +3,7 @@ title: "Github.io 블로그 시작"
 date: 2020-11-19 21:53:00 +0900
 categories: Uncategorized
 ---
+
 Github.io 페이지를 만들어 보았다. 
 
 기술 관련 정리를 하거나, 코드를 올리기에 github.io가 적당해 보인다. 
