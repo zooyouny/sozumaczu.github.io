@@ -1,8 +1,6 @@
 ---
 title: "Projects"
 permalink: /projects/
-layout: posts
+layout: categories
 author_profile: true
 ---
-
-**TODO** Projects
