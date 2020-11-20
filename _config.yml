@@ -118,7 +118,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/zooyouny"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-link"
+      icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/jooyeon-hwang-b0097831/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
