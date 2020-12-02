@@ -1,7 +1,11 @@
 ---
 title: "Github.io 블로그 시작"
-date: 2020-11-19 21:53:00 +0900
-categories: Post
+categories: 
+  - Post
+tags: 
+  - Jekyll
+  - 잡담
+last_modified_at: 2020-12-03 00:00:00 +09:00
 ---
 
 Github.io 페이지를 만들어 보았다. 

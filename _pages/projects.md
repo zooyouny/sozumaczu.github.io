@@ -1,8 +1,7 @@
 ---
 title: "Projects"
 permalink: /projects/
-layout: categories
+layout: archive
 author_profile: true
 ---
 
-프로젝트 목록
