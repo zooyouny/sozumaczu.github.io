@@ -1,6 +1,9 @@
 ---
 title: "About"
 permalink: /about/
-layout: about
-author_profile: true
+layout: single
 ---
+
+## zooyouny.github.io 블로그
+
+개인 개발 블로그
