@@ -1,7 +1,7 @@
 ---
 title: "윈도우에서 NVIDIA GPU 사용하도록 ffmpeg 빌드하기"
 categories: 
-  - Post
+  - ffmpeg
 tags: 
   - ffmpeg
   - cuvid
