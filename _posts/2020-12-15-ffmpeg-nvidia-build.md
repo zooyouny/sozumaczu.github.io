@@ -8,9 +8,9 @@ tags:
 last_modified_at: 2020-12-15 15:02:00 +09:00
 ---
 
-# 윈도우에서 NVIDIA GPU 사용하도록 ffmpeg 빌드하기
+본 포스트에서는 윈도우에서 NVIDIA GPU를 사용하도록 ffmpeg을 빌드하는 방법에 대해 설명한다.
 
-참고 : [https://docs.nvidia.com/video-technologies/video-codec-sdk/ffmpeg-with-nvidia-gpu/](https://docs.nvidia.com/video-technologies/video-codec-sdk/ffmpeg-with-nvidia-gpu/)
+참고 : [NVIDIA Video Codec SDK 문서](https://docs.nvidia.com/video-technologies/video-codec-sdk/ffmpeg-with-nvidia-gpu/)
 
 NVIDIA Video Codec SDK Documentation에 보면 상세한 설명이 나와있다. 위 링크에 있는 내용을 요약하여 정리하였다. [Compiling for Windows](https://docs.nvidia.com/video-technologies/video-codec-sdk/ffmpeg-with-nvidia-gpu/#compiling-for-windows) 부분을 보면 된다.
 
