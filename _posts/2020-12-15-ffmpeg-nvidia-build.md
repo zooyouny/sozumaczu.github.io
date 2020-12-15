@@ -1,3 +1,13 @@
+---
+title: "윈도우에서 NVIDIA GPU 사용하도록 ffmpeg 빌드하기"
+categories: 
+  - Post
+tags: 
+  - ffmpeg
+  - cuvid
+last_modified_at: 2020-12-15 15:02:00 +09:00
+---
+
 # 윈도우에서 NVIDIA GPU 사용하도록 ffmpeg 빌드하기
 
 참고 : [https://docs.nvidia.com/video-technologies/video-codec-sdk/ffmpeg-with-nvidia-gpu/](https://docs.nvidia.com/video-technologies/video-codec-sdk/ffmpeg-with-nvidia-gpu/)
